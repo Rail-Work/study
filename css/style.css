@@ -1,0 +1,70 @@
+.bg-image-header {
+  margin-top: 30px;
+  background: url(../images/germany1.jpg) 0 0/100% 100% no-repeat;
+  font-weight: bold;
+  color: red;
+  font-size: 20px;
+  width: 100%;
+  height: 600px;
+}
+
+.text-form-index{
+  margin: 70px;
+  text-align: center;
+}
+
+.header-courses{
+  color: white;
+  margin-top: 30px;
+  background-color: rgb(78, 75, 75);
+  height: 400px;
+  text-align: center;
+  padding-top: 150px;
+}
+
+
+.contact_text{
+  background: url(../images/germany2.jpg) 0 0/100% 100% no-repeat;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  margin-top: 30px;
+  padding: 110px;
+}
+
+.about_us_bg{
+  background: url(../images/company.jpg) 0 0/100% 100% no-repeat;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  margin-top: 30px;
+  padding: 110px;
+  margin-bottom: 60px;
+}
+
+.text_aboutUs{
+  margin-top: 30px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.team_bg{
+  padding: 50px 0px;
+  background-color: rgb(48, 41, 41);
+  height: 600px;
+  color: white;
+  text-align: center;
+}
+
+.leftimg{
+  float:left; /* Выравнивание по левому краю */
+  margin: 7px 7px 7px 0;
+}
+
+.news_images{
+  margin-top: 100px;
+}

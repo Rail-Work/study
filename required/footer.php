@@ -1,0 +1,9 @@
+<div class="footer">
+		<hr>
+<div id="ul-id-wysiwyg-footerwysiwyg" style="text-align: center; margin: 30px 0px" class="ul-widget  " type="wysiwyg" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}"><div id="ul-id-wysiwyg-footerwysiwyg" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div aria-describedby="placeholder-ffceo" class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="_17fgIIn___block _3u7JUHo___center normal" data-block="true" data-editor="ffceo" data-offset-key="bscgh-0-0"><div data-offset-key="bscgh-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="bscgh-0-0"><span data-text="true">© 2021 </span></span><span class="LreJDHx___wrapper"><span data-offset-key="bscgh-1-0" style="color:#e33e32;text-decoration-color:#e33e32"><span data-text="true">Proger</span></span></span></div></div></div></div></div></div></div></div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
